@@ -13,9 +13,9 @@ const posts: PostType[] = [
       role: 'Front-end Developer'
     },
     content: [
-      {type: 'paragraph', content: 'Fala galeraa 👋'},
-      {type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀'},
-      {type: 'link', content: 'jane.design/doctorcare'},  
+      {type: 'paragraph', content: 'Fala galeraa 🥳'},
+      {type: 'paragraph', content: 'Mais um projeto concluído!! É um site para publicação de Posts. O nome do projeto é Postify 👩🏽‍💻'},
+      {type: 'link', content: 'mavie.becker/postify'},  
     ],
     publishedAt: new Date('2024-12-05 16:01'),
   },
