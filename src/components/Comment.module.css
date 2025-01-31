@@ -46,7 +46,7 @@
     background: transparent;
     border: 0;
     color: var(--gray-400);
-    cursos: pointer;
+    cursor: pointer;
     line-height: 0;
     border-radius: 2px;
 }
@@ -68,7 +68,7 @@
     background: transparent;
     border: 0;
     color: var(--gray-400);
-    cursos: pointer;
+    cursor: pointer;
     border-radius: 2px;
 
     display: flex;

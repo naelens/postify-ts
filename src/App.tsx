@@ -13,7 +13,7 @@ const posts: PostType[] = [
       role: 'Front-end Developer'
     },
     content: [
-      {type: 'paragraph', content: 'Fala galeraa 🥳'},
+      {type: 'paragraph', content: 'Olá, Devs 👋🏽'},
       {type: 'paragraph', content: 'Mais um projeto concluído!! É um site para publicação de Posts. O nome do projeto é Postify 👩🏽‍💻'},
       {type: 'link', content: 'mavie.becker/postify'},  
     ],
@@ -24,12 +24,14 @@ const posts: PostType[] = [
     author: {
       avatarUrl: 'https://i.pinimg.com/736x/24/43/88/24438868e61acbb4bc9e8d4cd4f18621.jpg',
       name: 'Josh Schneider',
-      role: 'Software Engineer'
+      role: 'Software Engineer At Blink'
     },
     content: [
-      {type: 'paragraph', content: 'Fala galeraa 👋'},
-      {type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀'},
-      {type: 'link', content: 'jane.design/doctorcare'},  
+      {type: 'paragraph', content: 'Novos desafios, novas metas para 2025! ✨'},
+      {type: 'paragraph', content: '1. Especializar-me em Python | 2. Aprimorar meus fundamentos em Django framework e REST framework | 3. Explorar IA Generativa e unir arte e código. '},
+      {type: 'paragraph', content: 'Espero que essas metas inspirem outros profissionais a planejar e compartilhar seus objetivos também.'},
+      {type: 'paragraph', content: 'Acessem meu site para conteúdos de como evoluir na carreira ✌🏻'},
+      {type: 'link', content: 'joshblog.com'},  
     ],
     publishedAt: new Date('2024-12-03 16:01'),
   },
